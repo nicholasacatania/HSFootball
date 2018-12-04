@@ -1,0 +1,390 @@
+{
+	"bowlGames": ["Florida Bowl", "Big Apple Bowl", "Fog Bowl", "Lone Star Bowl", "Tech Bowl", "Deep South Bowl", "Sun Bowl", "Freeway Bowl", "Midwest Bowl", 
+
+"Island Bowl"],
+	"conferences": [{
+		"confName": "NorCal",
+		"confFullName": "Northern California",
+		"confTeams": [{
+			"name": "De La Salle (CA)",
+			"abbreviation": "DLS",
+			"prestige": "90",
+			"state": "California",
+			"rival": "SM"
+		}, {
+			"name": "Cardinal Newman (CA)",
+			"abbreviation": "CN",
+			"prestige": "65",
+			"state": "California",
+			"rival": "EUR"
+		}, {
+			"name": "Folsom (CA)",
+			"abbreviation": "FOL",
+			"prestige": "80",
+			"state": "California",
+			"rival": "DO"
+		}, {
+			"name": "Del Oro (CA)",
+			"abbreviation": "DO",
+			"prestige": "75",
+			"state": "California",
+			"rival": "FOL"
+		}, {
+			"name": "Eureka (CA)",
+			"abbreviation": "EUR",
+			"prestige": "45",
+			"state": "California",
+			"rival": "CN"
+		}, {
+			"name": "St. Mary's (CA)",
+			"abbreviation": "SM",
+			"prestige": "70",
+			"state": "California",
+			"rival": "DLS"
+		}, {
+			"name": "Bakersfield (CA)",
+			"abbreviation": "BAKE",
+			"prestige": "75",
+			"state": "California",
+			"rival": "CLWE"
+		}, {
+			"name": "Palma (CA)",
+			"abbreviation": "PALM",
+			"prestige": "50",
+			"state": "California",
+			"rival": "MINE"
+		}, {
+			"name": "Clovis West (CA)",
+			"abbreviation": "CLWE",
+			"prestige": "70",
+			"state": "California",
+			"rival": "BAKE"
+		}, {
+			"name": "Bellarmine (CA)",
+			"abbreviation": "MINE",
+			"prestige": "85",
+			"state": "California",
+			"rival": "PALM"
+		}]
+	}, {
+		"confName": "SoCal",
+		"confFullName": "Southern California",
+		"confTeams": [{
+			"name": "St. John Bosco (CA)",
+			"abbreviation": "SJB",
+			"prestige": "95",
+			"state": "California",
+			"rival": "MD"
+		}, {
+			"name": "Mater Dei (CA)",
+			"abbreviation": "MD",
+			"prestige": "90",
+			"state": "California",
+			"rival": "SJB"
+		}, {
+			"name": "Centennial (CA)",
+			"abbreviation": "CENT",
+			"prestige": "85",
+			"state": "California",
+			"rival": "UPL"
+		}, {
+			"name": "Oaks Christian (CA)",
+			"abbreviation": "OC",
+			"prestige": "80",
+			"state": "California",
+			"rival": "SB"
+		}, {
+			"name": "Helix (CA)",
+			"abbreviation": "HEL",
+			"prestige": "70",
+			"state": "California",
+			"rival": "OCE"
+		}, {
+			"name": "Upland (CA)",
+			"abbreviation": "UPL",
+			"prestige": "80",
+			"state": "California",
+			"rival": "CENT"
+		}, {
+			"name": "Poly (CA)",
+			"abbreviation": "POLY",
+			"prestige": "85",
+			"state": "California",
+			"rival": "MV"
+		}, {
+			"name": "Mission Viejo (CA)",
+			"abbreviation": "MV",
+			"prestige": "80",
+			"state": "California",
+			"rival": "POLY"
+		}, {
+			"name": "St. Bonaventure (CA)",
+			"abbreviation": "SB",
+			"prestige": "70",
+			"state": "California",
+			"rival": "OC"
+		}, {
+			"name": "Oceanside",
+			"abbreviation": "OCE",
+			"prestige": "75",
+			"state": "California",
+			"rival": "HEL"
+		}]
+	}, {
+		"confName": "South",
+		"confFullName": "Southern States",
+		"confTeams": [{
+			"name": "St. Thomas Aquinas (FL)",
+			"abbreviation": "STA",
+			"prestige": "90",
+			"state": "Florida",
+			"rival": "MIA"
+		}, {
+			"name": "Lakeland (FL)",
+			"abbreviation": "LAKE",
+			"prestige": "80",
+			"state": "Florida",
+			"rival": "ARM"
+		}, {
+			"name": "Hoover (AL)",
+			"abbreviation": "HOOV",
+			"prestige": "70",
+			"state": "Alabama",
+			"rival": "SOPA"
+		}, {
+			"name": "South Panola (MS)",
+			"abbreviation": "SOPA",
+			"prestige": "65",
+			"state": "Mississippi",
+			"rival": "HOOV"
+		}, {
+			"name": "Armwood (FL)",
+			"abbreviation": "ARM",
+			"prestige": "55",
+			"state": "Florida",
+			"rival": "LAKE"
+		}, {
+			"name": "Miami Central (FL)",
+			"abbreviation": "MIA",
+			"prestige": "70",
+			"state": "Florida",
+			"rival": "STA"
+		}, {
+			"name": "Byrnes (SC)",
+			"abbreviation": "BYRN",
+			"prestige": "50",
+			"state": "South Carolina",
+			"rival": "BUT"
+		}, {
+			"name": "Norcross (GA)",
+			"abbreviation": "NOR",
+			"prestige": "55",
+			"state": "Georgia",
+			"rival": "BUF"
+		}, {
+			"name": "Buford (GA)",
+			"abbreviation": "BUF",
+			"prestige": "65",
+			"state": "Georgia",
+			"rival": "NOR"
+		}, {
+			"name": "Butler (NC)",
+			"abbreviation": "BUT",
+			"prestige": "50",
+			"state": "North Carolina",
+			"rival": "BYRN"
+		}]
+	}, {
+		"confName": "PAC",
+		"confFullName": "Pacific",
+		"confTeams": [{
+			"name": "Valor Christian (CO)",
+			"abbreviation": "VALR",
+			"prestige": "80",
+			"state": "Colorado",
+			"rival": "BING"
+		}, {
+			"name": "Kahuku (HI)",
+			"abbreviation": "KAHU",
+			"prestige": "70",
+			"state": "Hawaii",
+			"rival": "STL"
+		}, {
+			"name": "Saint Louis (HI)",
+			"abbreviation": "STL",
+			"prestige": "75",
+			"state": "Hawaii",
+			"rival": "KAHU"
+		}, {
+			"name": "Jenks (OK)",
+			"abbreviation": "JENK",
+			"prestige": "65",
+			"state": "Oklahoma",
+			"rival": "UNI"
+		}, {
+			"name": "Union (OK)",
+			"abbreviation": "UNI",
+			"prestige": "60",
+			"state": "Oklahoma",
+			"rival": "JENK"
+		}, {
+			"name": "Chandler (AZ)",
+			"abbreviation": "CHAN",
+			"prestige": "65",
+			"state": "Arizona",
+			"rival": "BG"
+		}, {
+			"name": "Bishop Gorman (NV)",
+			"abbreviation": "BG",
+			"prestige": "90",
+			"state": "Nevada",
+			"rival": "CHAN"
+		}, {
+			"name": "Ashland (OR)",
+			"abbreviation": "ASH",
+			"prestige": "35",
+			"state": "Oregon",
+			"rival": "BELL"
+		}, {
+			"name": "Bingham (UTA)",
+			"abbreviation": "BING",
+			"prestige": "50",
+			"state": "Utah",
+			"rival": "VALR"
+		}, {
+			"name": "Bellevue (WA)",
+			"abbreviation": "BELL",
+			"prestige": "65",
+			"state": "Washington",
+			"rival": "ASH"
+		}]
+	}, {
+		"confName": "ATL",
+		"confFullName": "Atlantic",
+		"confTeams": [{
+			"name": "Trinity (KY)",
+			"abbreviation": "TRIN",
+			"prestige": "55",
+			"state": "Kentucky",
+			"rival": "MARY"
+		}, {
+			"name": "Maryville (TN)",
+			"abbreviation": "MARY",
+			"prestige": "35",
+			"state": "Tennessee",
+			"rival": "TRIN"
+		}, {
+			"name": "Colerain (OH)",
+			"abbreviation": "COLE",
+			"prestige": "75",
+			"state": "Ohio",
+			"rival": "STX"
+		}, {
+			"name": "St. Xavier (OH)",
+			"abbreviation": "STX",
+			"prestige": "75",
+			"state": "Ohio",
+			"rival": "COLE"
+		}, {
+			"name": "North Allegheny (PA)",
+			"abbreviation": "NOAL",
+			"prestige": "70",
+			"state": "Pennsylvania",
+			"rival": "BRO"
+		}, {
+			"name": "Brother Rice (MI)",
+			"abbreviation": "BRO",
+			"prestige": "50",
+			"state": "Michigan",
+			"rival": "NOAL"
+		}, {
+			"name": "Don Bosco Prep (NJ)",
+			"abbreviation": "DBP",
+			"prestige": "85",
+			"state": "New Jersey",
+			"rival": "STJ"
+		}, {
+			"name": "St. Joseph (NJ)",
+			"abbreviation": "STJ",
+			"prestige": "85",
+			"state": "New Jersey",
+			"rival": "DBP"
+		}, {
+			"name": "Carmel (IN)",
+			"abbreviation": "CARM",
+			"prestige": "40",
+			"state": "Indiana",
+			"rival": "ROCK"
+		}, {
+			"name": "Rockhurst (MO)",
+			"abbreviation": "ROCK",
+			"prestige": "70",
+			"state": "Missouri",
+			"rival": "CARM"
+		}]
+	}, {
+		"confName": "TEXAS",
+		"confFullName": "Texas",
+		"confTeams": [{
+			"name": "Carroll (TX)",
+			"abbreviation": "SLC",
+			"prestige": "80",
+			"state": "Texas",
+			"rival": "ALLN"
+		}, {
+			"name": "Allen (TX)",
+			"abbreviation": "ALLN",
+			"prestige": "90",
+			"state": "Texas",
+			"rival": "SLC"
+		}, {
+			"name": "Katy (TX)",
+			"abbreviation": "KATY",
+			"prestige": "80",
+			"state": "Texas",
+			"rival": "PEAR"
+		}, {
+			"name": "DeSoto (TX)",
+			"abbreviation": "DESO",
+			"prestige": "90",
+			"state": "Texas",
+			"rival": "ALED"
+		}, {
+			"name": "Lufkin (TX)",
+			"abbreviation": "LUFK",
+			"prestige": "65",
+			"state": "Texas",
+			"rival": "LONG"
+		}, {
+			"name": "Lake Travis (TX)",
+			"abbreviation": "LAKE",
+			"prestige": "70",
+			"state": "Texas",
+			"rival": "PERM"
+		}, {
+			"name": "Aledo (TX)",
+			"abbreviation": "ALED",
+			"prestige": "85",
+			"state": "Texas",
+			"rival": "DESO"
+		}, {
+			"name": "Longview (TX)",
+			"abbreviation": "LONG",
+			"prestige": "80",
+			"state": "Texas",
+			"rival": "LUFK"
+		}, {
+			"name": "Pearland (TX)",
+			"abbreviation": "PEAR",
+			"prestige": "80",
+			"state": "Texas",
+			"rival": "KATY"
+		}, {
+			"name": "Permian (TX)",
+			"abbreviation": "PERM",
+			"prestige": "65",
+			"state": "Texas",
+			"rival": "LAKE"
+		}]
+	}]
+}
