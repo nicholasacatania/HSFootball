@@ -9,7 +9,7 @@
 			"abbreviation": "DLS",
 			"prestige": "90",
 			"state": "California",
-			"rival": "SM"
+			"rival": "STM"
 		}, {
 			"name": "Cardinal Newman CA",
 			"abbreviation": "CN",
@@ -36,7 +36,7 @@
 			"rival": "CN"
 		}, {
 			"name": "St. Marys CA",
-			"abbreviation": "SM",
+			"abbreviation": "STM",
 			"prestige": "70",
 			"state": "California",
 			"rival": "DLS"
