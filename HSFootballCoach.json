@@ -2,7 +2,7 @@
 	"bowlGames": ["Florida Bowl", "Big Apple Bowl", "Fog Bowl", "Lone Star Bowl", "Tech Bowl", "Deep South Bowl", "Sun Bowl", "Freeway Bowl", "Midwest Bowl", 
 "Island Bowl"],
 	"conferences": [{
-		"confName": "NorCal",
+		"confName": "NorCA",
 		"confFullName": "Northern California",
 		"confTeams": [{
 			"name": "De La Salle CA",
