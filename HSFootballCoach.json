@@ -2,7 +2,7 @@
 	"bowlGames": ["Florida Bowl", "Big Apple Bowl", "Fog Bowl", "Lone Star Bowl", "Tech Bowl", "Deep South Bowl", "Sun Bowl", "Freeway Bowl", "Midwest Bowl", 
 "Island Bowl"],
 	"conferences": [{
-		"confName": "NoCal",
+		"confName": "NorCal",
 		"confFullName": "Northern California",
 		"confTeams": [{
 			"name": "De La Salle CA",
@@ -130,7 +130,7 @@
 			"rival": "HEL"
 		}]
 	}, {
-		"confName": "South",
+		"confName": "SOUTH",
 		"confFullName": "Southern States",
 		"confTeams": [{
 			"name": "St. Thomas Aquinas FL",
